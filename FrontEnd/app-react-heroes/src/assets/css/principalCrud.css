@@ -1,0 +1,41 @@
+.botonGrande{
+
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    margin: auto;
+
+}
+
+.botonChico{
+
+    height: 30px;
+    width: 70px;
+    text-align: center;
+
+}
+
+.celdaGrande{
+
+    margin: auto;
+    text-align: center;
+    width: 60px;
+
+}
+
+.celdaChica{
+
+    margin: auto;
+    text-align: center;
+    width: 30px;
+
+}
+
+.celdaAcciones{
+
+    margin: auto;
+    text-align: center;
+    width: 60px;
+    vertical-align:middle
+
+}

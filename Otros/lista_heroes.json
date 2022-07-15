@@ -1,0 +1,92 @@
+[
+	{
+		"id": "1",
+		"nombre": "Aquaman",
+		"poderes": ["Superfuerza", "Control de criaturas marinas", "Respira bajo el agua"],
+		"bio": "El poder más reconocido de Aquaman es la capacidad telepática para comunicarse con la vida marina, la cual puede convocar a grandes distancias.",
+		"img": "assets/img/aquaman.png",
+		"aparicion": "1941-11-01",
+		"casa": "DC",
+		"escalaPoder":7
+	},
+	{
+		"id": "2",
+		"nombre": "Batman",
+		"poderes": ["Super Traje", "Millonario", "Inteligencia"],
+		"bio": "Los rasgos principales de Batman se resumen en destreza física, habilidades deductivas y obsesión. La mayor parte de las características básicas de los cómics han variado por las diferentes interpretaciones que le han dado al personaje.",
+		"img": "assets/img/batman.png",
+		"aparicion": "1939-05-01",
+		"casa": "DC",
+		"escalaPoder":6
+	},
+	{
+		"id": "3",
+		"nombre": "Daredevil",
+		"poderes": ["Agilidad", "Velocidad", "Hipersentidos"],
+		"bio": "Al haber perdido la vista, los cuatro sentidos restantes de Daredevil fueron aumentados por la radiación a niveles superhumanos, en el accidente que tuvo cuando era niño. A pesar de su ceguera, puede ver a través de un sexto sentido que le sirve como un radar similar al de los murciélagos.",
+		"img": "assets/img/daredevil.jpg",
+		"aparicion": "1964-01-01",
+		"casa": "Marvel",
+		"escalaPoder":6
+	},
+	{
+		"id": "4",
+		"nombre": "Hulk",
+		"poderes": ["Superfuerza", "Resistencia", "Inmunidad"],
+		"bio": "Su principal poder es su capacidad de aumentar su fuerza hasta niveles prácticamente ilimitados a la vez que aumenta su furia.Dependiendo de qué personalidad de Hulk esté al mando en ese momento(el Hulk Banner es el más débil, pero lo compensa con su inteligencia).",
+		"img": "assets/img/hulk.jpg",
+		"aparicion": "1962-05-01",
+		"casa": "Marvel",
+		"escalaPoder":8
+	},
+	{
+		"id": "5",
+		"nombre": "Linterna Verde",
+		"poderes": ["Puede Volar", "Anillo con Poderes", "Resistencia"],
+		"bio": "Poseedor del anillo de poder que posee la capacidad de crear manifestaciones de luz sólida mediante la utilización del pensamiento.Es alimentado por la Llama Verde(revisada por escritores posteriores como un poder místico llamado Starheart), una llama mágica contenida en dentro de un orbe. El orbe era en realidad un meteorito verde de metal que cayó a la Tierra, el cual encontró un fabricante de lámparas llamado Chang)",
+		"img": "assets/img/lverde.jpg",
+		"aparicion": "1940-06-01",
+		"casa": "DC",
+		"escalaPoder":9
+	},
+	{
+		"id": "6",
+		"nombre": "Spider-Man",
+		"poderes": ["Sentido Arácnido", "Superfuerza", "Agilidad"],
+		"bio": "Tras ser mordido por una araña radiactiva, obtuvo los siguientes poderes sobrehumanos, una gran fuerza, agilidad, poder trepar por paredes. La fuerza de Spider - Man le permite levantar 10 toneladas o más. Gracias a esta gran fuerza Spider - Man puede realizar saltos íncreibles. Un sentido arácnido que le permite saber si un peligro se cierne sobre él, antes de que suceda.En ocasiones este puede llevar a Spider - Man al origen del peligro.",
+		"img": "assets/img/spider.jpg",
+		"aparicion": "1962-08-01",
+		"casa": "Marvel",
+		"escalaPoder":8
+	},
+	{
+		"id": "7",
+		"nombre": "Wolverine",
+		"poderes": ["Regeneracion", "Inmunidad", "Esqueleto y Garras de Adamantium"],
+		"bio": "En el universo ficticio de Marvel, Wolverine posee poderes regenerativos que pueden curar cualquier herida, por mortal que ésta sea, además ese mismo poder hace que sea inmune a cualquier enfermedad existente en la Tierra y algunas extraterrestres.Posee también una fuerza sobrehumana, que si bien no se compara con la de otros superhéroes como Hulk, sí sobrepasa la de cualquier humano normal.",
+		"img": "assets/img/wolverine.png",
+		"aparicion": "1974-11-01",
+		"casa": "Marvel",
+		"escalaPoder":7
+	},
+	{
+		"id": "8",
+		"nombre": "Superman",
+		"poderes": ["Superfuerza", "Inmunidad", "Puede Volar", "Laser", "Congelación", "Hipervelocidad"],
+		"bio": "Superman nació en el planeta Krypton y recibió el nombre de Kal-El al nacer. Cuando era bebé, sus padres, el científico Jor-El, y su esposa Lara Lor-Van, lo enviaron a la Tierra en una pequeña nave espacial momentos antes de que Krypton fuera destruido en un cataclismo natural. Su nave aterrizó en el campo estadounidense, cerca de la ciudad ficticia de Smallville. Fue encontrado y adoptado por los agricultores Jonathan y Martha Kent, quienes lo llamaron Clark Kent. Clark desarrolló varias habilidades sobrehumanas, como una fuerza increíble y una piel impermeable. Sus padres adoptivos le aconsejaron que usara sus habilidades en beneficio de la humanidad y decidió luchar contra el crimen como un justiciero.",
+		"img": "assets/img/superman.png",
+		"aparicion": "1938-04-18",
+		"casa": "DC",
+		"escalaPoder":10
+	},
+	{
+		"id": "9",
+		"nombre": "Flash",
+		"poderes": ["Superfuerza", "SuperVelocidad", "Puede Viajar en el tiempo"],
+		"bio": "Apodado el Corredor Escarlata, todas las encarnaciones del Flash poseen súper velocidad, que incluye la capacidad de correr, moverse y pensar extremadamente rápido, también puede atravesar la materia sólida, usar reflejos sobrehumanos y aparentemente violar ciertas leyes de la física, como superar la velocidad de la luz.",
+		"img": "assets/img/flash.jpg",
+		"aparicion": "1954-04-18",
+		"casa": "DC",
+		"escalaPoder":9
+	}
+]
